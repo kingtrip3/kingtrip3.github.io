@@ -1,0 +1,147 @@
+[
+    {
+        "id": "main-banner",
+        "title": "Matthew <span class='color-primary'>Mukherjee</span>",
+        "subtitle": "Creative Web & App Developer",
+        "bgImage": "./images/banner/bg-image-02.jpeg",
+        "image": "./images/banner/person-image.jpeg"
+    },
+
+    {
+        "id": "about",
+        "title": "Matthew Mukherjee",
+        "subtitle": "Computer Programmer and Developer",
+        "description": "My name is Matthew Mukherjee. I am currently attending George Brown College for the Computer Programmer Analyst program. I am currently in my last semester",
+        "description2": "Throughout the last 3 years in this program I feel I have grasped many languages such as Python, Java, C#, Javascript and its respective frameworks such as React and Angular, Swift, Kotlin and Web development languages such as HTML5 and CSS",
+        "downloadButton": "Download Resume",
+        "linkBUtton": "Send Message",
+        "aboutData": [
+            {   
+                "id": "aboutinfo-1",
+                "iconName": "FiArrowRightCircle",
+                "label": "Birthday",
+                "value": "05.27.1994"
+            },
+            {
+                "id": "aboutinfo-2",
+                "iconName": "icon",
+                "label": "Age",
+                "value": "27"
+            },
+            {
+                "id": "aboutinfo-3",
+                "iconName": "icon",
+                "label": "Location",
+                "value": "Toronto, Ontario, Canada"
+            },
+            {
+                "id": "aboutinfo-3",
+                "iconName": "icon",
+                "label": "Interests",
+                "value": "Studying, Video Games"
+            },
+            {
+                "id": "aboutinfo-3",
+                "iconName": "icon",
+                "label": "Study",
+                "value": "George Brown College"
+            },
+            {
+                "id": "aboutinfo-4",
+                "iconName": "icon",
+                "label": "Advanced Diploma",
+                "value": "Computer Programmer Analyst"
+            },
+            {
+                "id": "aboutinfo-5",
+                "iconName": "icon",
+                "label": "Mail",
+                "value": "matthewmukherjee3@gmail.com"
+            },
+            {
+                "id": "aboutinfo-6",
+                "iconName": "icon",
+                "label": "Phone",
+                "value": "416-526-1494"
+            }
+        ]
+    },
+
+    {
+        "id": "skill",
+        "title": "In a <span class='theme-color'>short time</span>, I have been able to achieve excellence in all areas of development.",
+        "description": ""
+    },
+    {
+        "id": "portfolio",
+        "title": "Completed Projects",
+        "description": ""
+    },
+    {
+        "id": "chooseus",
+        "imagegroup": [
+            {
+                "image": "./images/others/why-1.jpg"
+            },
+            {
+                "image": "./images/others/why-2.jpg"
+            }
+        ]
+        
+    },
+
+    {
+        "id": "skillTwo",
+        "title": "My Skills in <span class='theme-color'>Years</span>",
+        "description": "I love to be creative and program"
+    },
+    {
+        "id": "testimonial",
+        "title": "None",
+        "subtitle": "None",
+        "description": "None",
+        "bgImage": "./images/banner/bg-image-03.jpg"
+    },
+    {
+        "id": "brand",
+        "brandGroup": [
+            {
+                "id": "brand-01",
+                "image": "./images/brand/1.png"
+            },
+            {
+                "id": "brand-02",
+                "image": "./images/brand/2.png"
+            },
+            {
+                "id": "brand-03",
+                "image": "./images/brand/3.png"
+            },
+            {
+                "id": "brand-04",
+                "image": "./images/brand/4.png"
+            },
+            {
+                "id": "brand-01",
+                "image": "./images/brand/5.png"
+            },
+            {
+                "id": "brand-02",
+                "image": "./images/brand/6.png"
+            },
+            {
+                "id": "brand-03",
+                "image": "./images/brand/3.png"
+            },
+            {
+                "id": "brand-04",
+                "image": "./images/brand/4.png"
+            }
+        ]
+    },
+    {
+        "id": "contactus",
+        "title": "Contact Me and get more imformation",
+        "subtitle": ""
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "id": "project-06",
+    "title": "Notification Mangement System",
+    "category": "PHP",
+    "client": "None",
+    "imgesBY": "https://github.com/kingtrip3/nmsphp",
+    "year": "2009 - 2019",
+    "featured_image": "./images/nms1.jpg",
+    "is_featured": true,
+    "body": [
+        "Notification management system build using PHP. This php project includes front end and back end. It has a log in, users, clients, notificaiton, client notification, backup and restore functions and log out functionality"
+    ],
+    "features": [
+        {
+            "id": "feature-1",
+            "image": "./images/project-02.jpg"
+        },
+        {
+            "id": "feature-2",
+            "image": "./images/project-03.jpg"
+        }
+    ]
+}

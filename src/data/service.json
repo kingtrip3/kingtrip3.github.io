@@ -1,0 +1,44 @@
+[
+    {
+        "id" : "service-1",
+        "number": "01",
+        "title": "Web Development",
+        "description": "Web development is building and designing beautiful and functional websites",
+        "readmoreButton": "Read More..."
+    },
+    {
+        "id" : "service-2",
+        "number": "02",
+        "title": "Mobile App Developement",
+        "description": "Mobile App development is building mobile apps to a modern world",
+        "readmoreButton": "Read More..."
+    },
+    {
+        "id" : "service-3",
+        "number": "03",
+        "title": "Data Science",
+        "description": "Data science is the studying of data using python",
+        "readmoreButton": "Read More..."
+    },
+    {
+        "id" : "service-4",
+        "number": "04",
+        "title": "Machine learning",
+        "description": "Machine learning is to train computer sytems to learn and improve",
+        "readmoreButton": "Read More..."
+    },
+    {
+        "id" : "service-5",
+        "number": "05",
+        "title": "Backend",
+        "description": "i am an experienced data base builder using mongodb and firebase",
+        "readmoreButton": "Read More..."
+    },
+    {
+        "id" : "service-6",
+        "number": "06",
+        "title": "Front End",
+        "description": "Excellent at developing and designing",
+        "readmoreButton": "Read More..."
+    }
+]

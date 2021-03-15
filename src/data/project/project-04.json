@@ -1,0 +1,23 @@
+{
+    "id": "project-04",
+    "title": "Secure payment processing system Web Application using Java",
+    "category": "Java, SQL, Maven, Thymeleaf, Spring",
+    "client": "None",
+    "imgesBY": "kingtrip3",
+    "year": "2020",
+    "featured_image": "./images/project-04.jpg",
+    "is_featured": true,
+    "body": [
+        "A secure payment processing developed using Spring, Thymeleaf, Maven, and Java. This project includes both front end and back end. "
+    ],
+    "features": [
+        {
+            "id": "feature-1",
+            "image": "./images/project-02.jpg"
+        },
+        {
+            "id": "feature-2",
+            "image": "./images/project-03.jpg"
+        }
+    ]
+}

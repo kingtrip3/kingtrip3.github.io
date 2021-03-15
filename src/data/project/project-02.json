@@ -1,0 +1,23 @@
+{
+    "id": "project-02",
+    "title": "Let's Meet",
+    "category": "iOS App",
+    "client": "None",
+    "imgesBY": "kingtrip3",
+    "year": "2021",
+    "featured_image": "./images/project-02.jpg",
+    "is_featured": true,
+    "body": [
+        "Tinder clone developed by me with card swiping, built in messaging and likes"
+    ],
+    "features": [
+        {
+            "id": "feature-1",
+            "image": "./images/project-02.jpg"
+        },
+        {
+            "id": "feature-2",
+            "image": "./images/project-03.jpg"
+        }
+    ]
+}
